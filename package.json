@@ -1,5 +1,5 @@
 {
-	"name": "archetypeai-wifi-demo-model-serving",
+	"name": "archetypeai-wifi-demo-inference-api",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",

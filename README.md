@@ -51,8 +51,8 @@ The GHOST project was funded by the EU Horizon 2020 programme.
 Requires Node.js 20 or later:
 
 ```bash
-git clone https://github.com/archetypeai/archetypeai-wifi-demo-model-serving.git
-cd archetypeai-wifi-demo-model-serving
+git clone https://github.com/archetypeai/archetypeai-wifi-demo-inference-api.git
+cd archetypeai-wifi-demo-inference-api
 npm install
 ```
 
